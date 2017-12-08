@@ -1,0 +1,18 @@
+
+.rotatebox {
+	width: 320px;
+	margin: 0 auto;
+}
+.rotatebox .images{
+  width: 320px;
+  height: 420px;
+  position: relative;
+}
+.rotatebox .images img{
+  width: 320px;
+  height: 420px;
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
